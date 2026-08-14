@@ -3,7 +3,7 @@
 **Name:** Alexander Mari Coleto
 **Section:** 9-Platinum
 **Last Name:** Coleto
-**Date:** Date Completed
+**Date:** 08/14/2026
 ---
 
 ## Step 1: Identify the Big Problem
