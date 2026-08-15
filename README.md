@@ -8,7 +8,11 @@
 *Messenger/Facebook Account:* Alexander Mari Coleto
 
 # QUARTER 1:
-**Computational Thinking Skills:** 
+**1: Computational Thinking Skills:** 
 *File Link:* [View my File!](https://github.com/amcoleto/9platinumcs3/blob/main/q1/ctskillsPlatinumColeto.md)
+
+**2: Zodiac:**
+
+
 
 
