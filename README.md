@@ -12,6 +12,7 @@
 *File Link:* [View my File!](https://github.com/amcoleto/9platinumcs3/blob/main/q1/ctskillsPlatinumColeto.md)
 
 **2: Zodiac:**
+*File Link:* [View mt File!](https://github.com/amcoleto/9platinumcs3/blob/main/q1/zodiacPlatinumColeto.md)
 
 
 
