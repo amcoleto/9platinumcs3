@@ -18,7 +18,7 @@ Polymorphism is useful when it comes to having different types of products use a
 Of the four pillars of OOP, I believe that encapsulation would be the most beneficial in enhancing the efficiency of the sari-sari store inventory system. By encapsulation, I mean bundling up all the related information, which include the name of the product, the price, and the stock, and at the same time control access to that information. In doing so, mistakes such as setting a negative value for the stock of the product can be avoided.
 
 ## OOP Representation Through a Simple Diagram
-
+'''
 Product
 │
 ├──Properties
@@ -34,3 +34,4 @@ Product
 ├──Abstraction: Hides complex code to the user
 ├──Inheritance: Special products inherit Product
 ├──Polymorphism: Product that can implement different methods
+'''
