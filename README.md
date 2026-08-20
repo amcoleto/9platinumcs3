@@ -14,6 +14,9 @@
 **2: Zodiac:**
 *File Link:* [View my File!](https://github.com/amcoleto/9platinumcs3/blob/main/q1/zodiacPlatinumColeto.md)
 
+**3: ILA 3-1: Applying the Four Pillars of OOP:**
+*File Link:* [View my File!](https://github.com/amcoleto/9platinumcs3/blob/main/q1/ila_oop.md)
+
 
 
 
