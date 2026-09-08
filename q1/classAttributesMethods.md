@@ -26,7 +26,11 @@ Changes from my previous design:
 I made these: `Occupants`, `OccupantCount`, and `Bunk` set to private, in order in preventing the outside parts of the program directly alter data internally with no validation. If these were public, then it would not work properly. Example, a script outside could add occupants without updating. Uitlizing private attributes are one foundation of the pillar encapsulation. Data remains intact through different methods.
 
 ### Which method changes the state of your object?
-The add_student() method alters the state of the object. 
+The `add_student()` method alters the state of the object. If it calls, then a new student name is appended to the private list of `__occupants`, assigns bed placement in the dictionary `__bunk`, and increases the `__occupant_count` by 1.
 
 ### How did your two objects demonstrate that instances are independent?
-### What is the difference between your class diagram and your object diagram?
+Their instances are independent, which applies the pillar of encapsulation. When `add_student()` was called on Object 1, two students were added to the private list of the occupants, increasing to 2. But, object 2 still remained unchanged with 0 occupants and a list with no occupants. This strongly highlights encapsulation: each instance accords with its own space for instance variables.
+
+### What is the difference between your class diagram and your object diagram?'
+Class diagram: overall blueprint, which shows rules and its structure. 
+Object diagram: application, which shows instances with atual specific values
