@@ -8,6 +8,8 @@
 | OccupantCount | Integer                        | The number of occupants in a dorm room.                                              |
 | Occupants     | List of Strings                | Names of occupants through a list                                                    |
 | Bunk          | Dictionary of strings          | Determines whether the occupant is in the lower bunk, upper bunk, or in a single bed |
+| DormAssignment| String                         | Identifies what dorm assignment the room is (ex: "Dorm 1", "Dorm 2", etc.)           |
+
 ## Methods
 | Method                     | Description                                        |
 |----------------------------|----------------------------------------------------|
