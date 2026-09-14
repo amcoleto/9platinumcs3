@@ -14,13 +14,13 @@ Changes from my previous design:
 | Bunk           | Dictionary of Strings | Private    | Bed assignments happen inside the room. Making it public could result in two people in the same bed |
 | DormAssignment | String                | Public     | Outside systems need to know which building a room belongs to                                       |
 ## Updated UML Class Diagram
-![Class Diagram](image-2.png)
+![Class Diagram](Images/image-2.png)
 ## Python Implementation
-[View Python Source](classImplementation.py)
+[View Python Source](Images/classImplementation.py)
 ## Test Run
-![Test Run](image-3.png)
+![Test Run](Images/image-3.png)
 ## Object Diagram
-![Object Diagram](image-4.png)
+![Object Diagram](Images/image-4.png)
 ## Analysis
 ### Why did you make your chosen attribute private? 
 I made these: `Occupants`, `OccupantCount`, and `Bunk` set to private, in order in preventing the outside parts of the program directly alter data internally with no validation. If these were public, then it would not work properly. Example, a script outside could add occupants without updating. Uitlizing private attributes are one foundation of the pillar encapsulation. Data remains intact through different methods.

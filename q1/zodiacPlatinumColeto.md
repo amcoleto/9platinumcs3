@@ -14,4 +14,4 @@ if __name__ == "__main__":
 ```
 
 ## Screenshot:
-![Here!](image.png)
+![Here!](Images/image.png)
