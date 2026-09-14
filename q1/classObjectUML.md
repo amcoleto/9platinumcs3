@@ -18,7 +18,7 @@
 | RemoveStudent(student:str) | Removes a student from a dorm room.                |
 | AvailableBeds()            | Returns the beds and the location where available. |
 ## Class Diagram
-![Class Diagram](Images/<Your paragraph text (4).png>)
+![Class Diagram](./Images/<Your paragraph text (4).png>)
 ## Design Explanation
 ### Why did you choose this class?
 I chose this class because it contains a large dataset and has applicable data field, as well as methods. 
