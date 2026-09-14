@@ -18,10 +18,8 @@
 *File Link:* [View my File!](https://github.com/amcoleto/9platinumcs3/blob/main/q1/ila_oop.md)
 
 **4: OOPAct:**
-*File Link:* [View my File!](https://github.com/amcoleto/9platinumcs3/blob/main/q1/classObjectUML.md.md)
+*File Link:* [View my File!](https://github.com/amcoleto/9platinumcs3/blob/main/q1/classObjectUML.md)
 
-**5: OOPAct2:**
-*File Link:* [View my File!](https://github.com/amcoleto/9platinumcs3/blob/main/q1/classObjectUML.md.md)
-
-
+**5: OOPAct-PartII:**
+*File Link:* [View my File!](https://github.com/amcoleto/9platinumcs3/blob/main/q1/classAttributesMethods.md)
 
