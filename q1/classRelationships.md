@@ -15,13 +15,13 @@ Explanation: A DormRoom can be associated with one or many Roommates, which repr
 Multiplicity: 0..*
 Explanation: A dorm room can have zero to six occupants. While a dorm room can be empty, partially full, or full, a roommate must belong to a room.
 ## UML Class Relationship Diagram
-![Class Relationship Diagram](images/classRelationshipDiagram.png)
+![Class Relationship Diagram](Images/classrelationships.png)
 ## Python Implementation
 [View Python Source](classRelationships.py)
 ## Test Run
-![Relationship Test Run](images/relationshipTestRun.png)
+![Relationship Test Run](Images/classrelationshiptestrun.png)
 ## Object Relationship Diagram
-![Object Relationship Diagram](images/objectRelationshipDiagram.png)
+![Object Relationship Diagram](Images/Objectdiagram.png)
 ## Analysis
 ### What is the association between your two classes?
 ### What multiplicity did you choose and why?
