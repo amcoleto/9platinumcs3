@@ -23,3 +23,5 @@
 **5: OOPAct-PartII:**
 *File Link:* [View my File!](https://github.com/amcoleto/9platinumcs3/blob/main/q1/classAttributesMethods.md)
 
+**6: OOPAct-PartIII:**
+*File Link:* 
