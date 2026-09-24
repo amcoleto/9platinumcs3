@@ -2,10 +2,14 @@
 
 # ME, MYSELF, AND I: 
 *Name:* Alexander Mari Coleto
+
 *Section:* 9-Platinum
+
 *Birthday:* 04/04/2012
-*Favorite Number:* 36
+
 *Messenger/Facebook Account:* Alexander Mari Coleto
+
+Hello! I am Alexander Mari Coleto from 9-Platinum! I hope that this Computer Science 3 journey will be fun, as I enjoy comsci!
 
 # QUARTER 1:
 **1: Computational Thinking Skills:** 

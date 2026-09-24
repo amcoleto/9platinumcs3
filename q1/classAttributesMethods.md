@@ -23,7 +23,7 @@ Changes from my previous design:
 ![Object Diagram](Images/image-4.png)
 ## Analysis
 ### Why did you make your chosen attribute private? 
-I made these: `Occupants`, `OccupantCount`, and `Bunk` set to private, in order in preventing the outside parts of the program directly alter data internally with no validation. If these were public, then it would not work properly. Example, a script outside could add occupants without updating. Uitlizing private attributes are one foundation of the pillar encapsulation. Data remains intact through different methods.
+I made these: `Occupants`, `OccupantCount`, and `Bunk` set to private, in order in preventing the outside parts of the program directly alter data internally with no validation. If these were public, then it would not work properly. Example, a script outside could add occupants without updating. Utilizing private attributes are one foundation of the pillar encapsulation. Data remains intact through different methods.
 
 ### Which method changes the state of your object?
 The `add_student()` method alters the state of the object. If it calls, then a new student name is appended to the private list of `__occupants`, assigns bed placement in the dictionary `__bunk`, and increases the `__occupant_count` by 1.

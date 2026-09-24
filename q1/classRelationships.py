@@ -32,7 +32,6 @@ class DormRoom:
         self.__bunk = {}
 
     def add_student(self, student: Roommate, bed_type: str = "single"):
-        # Check if the Object is already in list
         if student in self.__occupants:
             print(f"[{self.room_number}] {student.name} is already in this room.")
             return
