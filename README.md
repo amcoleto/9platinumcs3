@@ -29,3 +29,6 @@ Hello! I am Alexander Mari Coleto from 9-Platinum! I hope that this Computer Sci
 
 **6: OOPAct-PartIII:**
 *File Link:* [View my File!](https://github.com/amcoleto/9platinumcs3/blob/main/q1/classRelationships.md)
+
+**7: OOPAct-PartIV:**
+*File Link:* [View my File!](https://github.com/amcoleto/9platinumcs3/blob/main/q1/advancedRelationships.md)
