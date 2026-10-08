@@ -32,3 +32,7 @@ Hello! I am Alexander Mari Coleto from 9-Platinum! I hope that this Computer Sci
 
 **7: OOPAct-PartIV:**
 *File Link:* [View my File!](https://github.com/amcoleto/9platinumcs3/blob/main/q1/advancedRelationships.md)
+
+# QUARTER 2:
+**1: StudyGuide 8 - Encapsulation** 
+*File Link:* [View my File!](https://github.com/amcoleto/9platinumcs3/tree/main/q2)
