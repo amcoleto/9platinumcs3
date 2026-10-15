@@ -36,3 +36,6 @@ Hello! I am Alexander Mari Coleto from 9-Platinum! I hope that this Computer Sci
 # QUARTER 2:
 **1: StudyGuide 8 - Encapsulation** 
 *File Link:* [View my File!](https://github.com/amcoleto/9platinumcs3/blob/main/q2/sg8_encapsulation.py)
+
+**2: StudyGuide 9 - Inheritance** 
+*File Link:* [View my File!](https://github.com/amcoleto/9platinumcs3/blob/main/q2/sg9_inheritance.py)
