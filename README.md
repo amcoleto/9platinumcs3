@@ -41,4 +41,4 @@ Hello! I am Alexander Mari Coleto from 9-Platinum! I hope that this Computer Sci
 *File Link:* [View my File!](https://github.com/amcoleto/9platinumcs3/blob/main/q2/sg9_inheritance.py)
 
 **OPTIONAL StudyGuide 10 - Method Overriding**
-*File Link:* [View my File!]()
+*File Link:* [View my File!](https://github.com/amcoleto/9platinumcs3/blob/main/q2/sg10_methodoverriding)
