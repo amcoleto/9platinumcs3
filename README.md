@@ -40,5 +40,11 @@ Hello! I am Alexander Mari Coleto from 9-Platinum! I hope that this Computer Sci
 **2: StudyGuide 9 - Inheritance** 
 *File Link:* [View my File!](https://github.com/amcoleto/9platinumcs3/blob/main/q2/sg9_inheritance.py)
 
-**OPTIONAL StudyGuide 10 - Method Overriding**
+**3: OPTIONAL StudyGuide 10 - Method Overriding**
 *File Link:* [View my File!](https://github.com/amcoleto/9platinumcs3/blob/main/q2/sg10_methodoverriding)
+
+**4: StudyGuide 11 - Polymorphism Activity 1**
+*File Link:* [View my File!](https://github.com/amcoleto/9platinumcs3/blob/main/q2/sg11_polymorphism_activity2.py)
+
+**5: StudyGuide 11 - Polymorphism Activity 2**
+*File Link:* [View my File!](https://github.com/amcoleto/9platinumcs3/blob/main/q2/sg11_polymorphism_activity1.py)
